@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+    <string-array name="dropdown">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
